@@ -1,0 +1,12 @@
+C:\Users\RadwaElgammal\Desktop\EFProject1\WindowsFormsApp1\Entityy\bin\Debug\net6.0\Entityy.deps.json
+C:\Users\RadwaElgammal\Desktop\EFProject1\WindowsFormsApp1\Entityy\bin\Debug\net6.0\Entityy.dll
+C:\Users\RadwaElgammal\Desktop\EFProject1\WindowsFormsApp1\Entityy\bin\Debug\net6.0\Entityy.pdb
+C:\Users\RadwaElgammal\Desktop\EFProject1\WindowsFormsApp1\Entityy\obj\Debug\net6.0\Entityy.csproj.AssemblyReference.cache
+C:\Users\RadwaElgammal\Desktop\EFProject1\WindowsFormsApp1\Entityy\obj\Debug\net6.0\Entityy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RadwaElgammal\Desktop\EFProject1\WindowsFormsApp1\Entityy\obj\Debug\net6.0\Entityy.AssemblyInfoInputs.cache
+C:\Users\RadwaElgammal\Desktop\EFProject1\WindowsFormsApp1\Entityy\obj\Debug\net6.0\Entityy.AssemblyInfo.cs
+C:\Users\RadwaElgammal\Desktop\EFProject1\WindowsFormsApp1\Entityy\obj\Debug\net6.0\Entityy.csproj.CoreCompileInputs.cache
+C:\Users\RadwaElgammal\Desktop\EFProject1\WindowsFormsApp1\Entityy\obj\Debug\net6.0\Entityy.dll
+C:\Users\RadwaElgammal\Desktop\EFProject1\WindowsFormsApp1\Entityy\obj\Debug\net6.0\refint\Entityy.dll
+C:\Users\RadwaElgammal\Desktop\EFProject1\WindowsFormsApp1\Entityy\obj\Debug\net6.0\Entityy.pdb
+C:\Users\RadwaElgammal\Desktop\EFProject1\WindowsFormsApp1\Entityy\obj\Debug\net6.0\ref\Entityy.dll
